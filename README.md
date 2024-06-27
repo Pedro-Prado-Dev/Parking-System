@@ -43,7 +43,7 @@ This is a vehicle registration system project developed with Flask and SQLAlchem
 - Python
 - Flask
 - Docker
-- Sqlite
+- mySql
 
 ## Installation and Setup
 
